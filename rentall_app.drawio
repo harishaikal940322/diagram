@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-10T07:55:31.044Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="u_eCJmW4GOS6_tfJ9zOH" version="22.1.18" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-10T08:16:10.818Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="XWgOrr5ioLS05waSDOo5" version="22.1.18" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Rental Activity">
     <mxGraphModel dx="1032" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1210,6 +1210,9 @@
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jFTJmJU2UAh3RgEHl_GA-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jFTJmJU2UAh3RgEHl_GA-44" target="jFTJmJU2UAh3RgEHl_GA-48">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

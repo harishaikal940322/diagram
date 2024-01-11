@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T03:07:07.275Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="DnWkgycXdqXbBY4JUY8m" version="22.1.18" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-01-11T03:07:50.142Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="06f2dH_QcZbfm_KT-Jub" version="22.1.18" type="github" pages="3">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Rental Activity">
     <mxGraphModel dx="1290" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -963,7 +963,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="nDDe3c0ydg9RMO77lvDQ" name="rental billing">
+  <diagram id="nDDe3c0ydg9RMO77lvDQ" name="billing">
     <mxGraphModel dx="463" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />

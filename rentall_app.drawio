@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-01T12:46:34.416Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="4forEH9WyUV_2SCNnT2o" version="24.0.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-03-01T12:52:12.378Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="mMueAlg-VaN5K8i8UasE" version="24.0.0" type="github" pages="5">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Rental Activity">
     <mxGraphModel dx="1364" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1995,7 +1995,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BiS34dF5BIoOYwNPrF6u" name="Room management">
-    <mxGraphModel dx="1364" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="439" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2029,7 +2029,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6TTyKioK2Y9SDtm81Dam-8" value="f200location_type" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=4" parent="6TTyKioK2Y9SDtm81Dam-6" vertex="1">
+        <mxCell id="6TTyKioK2Y9SDtm81Dam-8" value="f200type_id" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=4" parent="6TTyKioK2Y9SDtm81Dam-6" vertex="1">
           <mxGeometry x="30" width="220" height="30" as="geometry">
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>

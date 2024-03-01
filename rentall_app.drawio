@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-01T12:45:29.238Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="3_Jf9iIYt-1cm3s1SV3Q" version="24.0.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-03-01T12:46:09.101Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="BI_zoWpdPldLrosrxTFv" version="24.0.0" type="github" pages="5">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Rental Activity">
     <mxGraphModel dx="1364" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -2437,7 +2437,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="abiJZcale9m4Q9mH5phm-1" value="t303income_code" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="310" width="180" height="270" as="geometry" />
+          <mxGeometry x="1520" y="310" width="180" height="300" as="geometry" />
         </mxCell>
         <mxCell id="abiJZcale9m4Q9mH5phm-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="abiJZcale9m4Q9mH5phm-1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -2539,6 +2539,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="abiJZcale9m4Q9mH5phm-25" value="&lt;u&gt;f303income_type&lt;/u&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="abiJZcale9m4Q9mH5phm-23">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="abiJZcale9m4Q9mH5phm-27" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="abiJZcale9m4Q9mH5phm-1">
+          <mxGeometry y="270" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="abiJZcale9m4Q9mH5phm-28" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="abiJZcale9m4Q9mH5phm-27">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="abiJZcale9m4Q9mH5phm-29" value="&lt;div&gt;f303price&lt;/div&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="abiJZcale9m4Q9mH5phm-27">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
